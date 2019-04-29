@@ -61,18 +61,3 @@ INSERT INTO Employees(SSN,Name,LastName,Department) VALUES('845657246','Kumar','
 9. Reassign all employees from the Research department (code 77) to the IT department (code 14).
 
 10. Delete from the table all employees who work in departments with a budget greater than or equal to $60,000.
-
-
-### Aggregates
-
-Table
-
-| name        | continent | area    | population | gdp          |
-|-------------|-----------|---------|------------|--------------|
-| Afghanistan | Asia      | 652230  | 25500100   | 20343000000  |
-| Albania     | Europe    | 28748   | 2831741    | 12960000000  |
-| Algeria     | Africa    | 2381741 | 37100000   | 188681000000 |
-| Andorra     | Europe    | 468     | 78115      | 3712000000   |
-| Angola      | Africa    | 1246700 | 20609294   | 100990000000 |
-
-11. List the continents that have a total population of at least 100 million.
